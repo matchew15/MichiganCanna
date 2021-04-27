@@ -18,7 +18,7 @@
     "react-scripts": "1.0.13",
     "react-sidenav": "^2.1.2",
     "reactstrap": "^5.0.0-alpha.4",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "redux": "^3.7.2",
     "react-d3-tree": "^1.7.0"
   },
